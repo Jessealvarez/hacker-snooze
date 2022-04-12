@@ -1,0 +1,41 @@
+body {
+    background-color: lightgray;
+    font-family: 'Press Start 2P', cursive;
+    display: flex;
+    flex-direction:column
+}
+
+
+
+
+#banner {
+    border-style:double;
+    border-width: 8px;
+    text-align:center;
+    font-size: 30px;
+    padding: 10px;
+}
+
+#rightside{
+    font-size: 20px;
+ 
+}
+
+#news-container{
+   
+    padding: 5px;
+}
+
+.list-group-item {
+    border-style: dotted;
+    border-top-width: 2px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 2px;
+    
+    padding: 8px;
+
+    background-color: lightgray;
+    
+}
+
